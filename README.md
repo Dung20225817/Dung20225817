@@ -1,3 +1,4 @@
+<img src="https://wwo-vietnamese.fandom.com/vi/wiki/S%C3%B3i_Ph%C3%A2n_T%C3%A1ch" width="100%" alt="banner" />
 # 💫 About Me:
 I am passionate about Artificial Intelligence (AI). With a solid background in Machine Learning (ML) and Deep Learning (DL), I truly understand the transformative power that AI can bring. Today, scientists are striving to develop AI systems that can think and reason like humans — and even surpass us in terms of data storage and processing capabilities.
 
