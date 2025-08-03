@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/09/ba/a9/09baa92cdae3fbc1ec85b7f8777d5b32.jpg" />
+<img src="https://i.pinimg.com/originals/09/ba/a9/09baa92cdae3fbc1ec85b7f8777d5b32.jpg" width="800" height="200" alt="banner" />
 # 💫 About Me:
 I am passionate about Artificial Intelligence (AI). With a solid background in Machine Learning (ML) and Deep Learning (DL), I truly understand the transformative power that AI can bring. Today, scientists are striving to develop AI systems that can think and reason like humans — and even surpass us in terms of data storage and processing capabilities.
 
