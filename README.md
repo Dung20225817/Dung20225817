@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?q=%E1%BA%A3nh%20c%C3%A1%20voi&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F09%2Fba%2Fa9%2F09baa92cdae3fbc1ec85b7f8777d5b32.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fthuphong97%2Fc%25C3%25A1-voi%2F&docid=s0J3o5TE7x--OM&tbnid=Su6hqtwTdrVA4M&vet=12ahUKEwiCrO_Wsu6OAxWaxzgGHRYoF0IQM3oECCMQAA..i&w=658&h=952&hcb=2&ved=2ahUKEwiCrO_Wsu6OAxWaxzgGHRYoF0IQM3oECCMQAA.png" />
+<img src="https://i.pinimg.com/originals/09/ba/a9/09baa92cdae3fbc1ec85b7f8777d5b32.jpg" />
 # 💫 About Me:
 I am passionate about Artificial Intelligence (AI). With a solid background in Machine Learning (ML) and Deep Learning (DL), I truly understand the transformative power that AI can bring. Today, scientists are striving to develop AI systems that can think and reason like humans — and even surpass us in terms of data storage and processing capabilities.
 
